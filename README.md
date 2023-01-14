@@ -1,4 +1,3 @@
-# killdeer-prey
 # <div align="center">🦅 Killdeer Prey Game</div>
 
 <div align="center">
