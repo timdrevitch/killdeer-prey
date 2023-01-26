@@ -42,7 +42,7 @@ void AKilldeerCharacter::BeginPlay()
 		}
 	}
 
-	bIsFlying = false;
+	bIsFlying = false; // Disables flying
 }
 
 // Move input binding
